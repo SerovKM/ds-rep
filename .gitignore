@@ -12,3 +12,6 @@ temp*
 
 # Отслеживать файл temp_important.txt, даже если есть шаблон на игнорирование temp*
 !temp_important.txt
+
+# Игнорировать файл с именем tmp_data.txt
+tmp_data.txt
