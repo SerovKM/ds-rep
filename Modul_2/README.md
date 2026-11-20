@@ -49,4 +49,4 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/user-loyalty-research.git
+    git clone https://github.com/SerovKM/ds-rep.git
